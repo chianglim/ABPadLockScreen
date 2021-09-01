@@ -22,7 +22,7 @@
 
 @import UIKit;
 
-#define SIMPLE_PIN_LENGTH 4
+#define SIMPLE_PIN_LENGTH 6
 
 @class ABPinSelectionView;
 
